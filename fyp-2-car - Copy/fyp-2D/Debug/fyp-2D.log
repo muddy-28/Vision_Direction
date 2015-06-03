@@ -1,0 +1,17 @@
+﻿Build started 5/30/2015 11:52:10 AM.
+     1>Project "C:\Users\Adnan Shafique\Desktop\fyp-2-car - Copy\fyp-2D\fyp-2D.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fyp-2D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         fyp-2D.vcxproj -> C:\Users\Adnan Shafique\Desktop\fyp-2-car - Copy\Debug\fyp-2D.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\fyp-2D.unsuccessfulbuild".
+         Touching "Debug\fyp-2D.lastbuildstate".
+     1>Done Building Project "C:\Users\Adnan Shafique\Desktop\fyp-2-car - Copy\fyp-2D\fyp-2D.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18
